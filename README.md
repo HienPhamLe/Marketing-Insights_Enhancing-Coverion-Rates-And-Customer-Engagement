@@ -4,7 +4,7 @@
 
 ## Project Overview
 This is a Power BI project on marketing analysis of an imaginary online retail business call **Shop Easy**.  
-**Shop Easy** is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They need help to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+**Shop Easy** is facing reduced customer engagement and conversion rates since January 2024. They need help to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
@@ -24,6 +24,7 @@ There are some tables that stored in SQL Server:
 - **Customer Reviews:** customer's reviews and rating on product.
 - **Products:** product information like category and price.
 - **Customers:** customer information like gender, age, city.
+Data is assumed for a 3 years period from 2023 to 2025.
 
 ## Data Model
 ![](images/data_model.png)

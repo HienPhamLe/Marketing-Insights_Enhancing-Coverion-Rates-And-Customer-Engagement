@@ -7,9 +7,9 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
 ## Skills / concepts demonstrated:
+- Power BI
 - SQL
 - Python
-- Power BI
 
 ## Problem Statement
 1. Which content types should be improved to raise customer engagement?

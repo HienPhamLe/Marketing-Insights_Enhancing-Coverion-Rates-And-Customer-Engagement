@@ -18,7 +18,7 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 2. What actions should be take to raise conversion rate?
 
 ## Data Sources
-There are some tables that stored in SQL Server:
+I collect data from some tables that stored in SQL Server:
 - **Customer Engagement:** customer's views, clicks and likes on content type, product and campaign.
 - **Customer Journey:** customer's actions like view, click, drop-off, purchase on product.
 - **Customer Reviews:** customer's reviews and rating on product.
@@ -39,15 +39,23 @@ The report comprises 3 pages:
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZmQ2NDc4MjMtMzkyOC00OWIzLTlkYjQtZDI2OTJkOTNkZTkwIiwidCI6IjQ0ZGMyOGI5LTI1NzAtNDcxMi1iNzRmLWI4ZGM3MTBkZjRmNCIsImMiOjEwfQ%3D%3D)
 
 ## Key Insights
-
-### Customer Engagement
 ![](images/customer_engagement_report_page.png)
+- A consistent decline in both the number of views and the likes-to-views ratio was observed from January 2024 to December 2025.
+- The distribution of views across the three content types—Blog (34.7%), Social Media (33.2%), and Video (32.1%)—was relatively balanced. However, the Blog category exhibited a sharper decline in views compared to the other two content types.
+- The likes-to-views conversion funnel experienced a significant drop, starting at 3.75% in January 2024 and steadily decreasing to only 0.01% by December 2025, with a steep downward trend throughout the period.
 
 ### Conversion Rate
 ![](images/conversion_rate_report_page.png)
+- The average conversion rate was 8.52%, with significant fluctuations month-to-month throughout the period. A consistent pattern emerged in both years, where conversion rates peaked in September (16% in 2024, 15.15% in 2025) and hit their lowest in November (5.08% in 2024, 4.48% in 2025).
+- When categorizing products by price: high-priced (> $200), mid-priced ($50–$200), and low-priced (< $50), the high-priced group consistently saw the highest number of purchases.
+- Interestingly, products with the highest conversion rates—Surfboard (16.44%), Ski Boots (13.11%), Hockey Stick (11.67%), and Baseball Glove (11.29%)—belonged to the category with lower view counts.
 
 ### Customer Reviews
 ![](images/customer_reviews_report_page.png)
+- Over the course of two years, there were 923 reviews with an average rating of 3.67 on a scale of 1 to 5.
+- Sentiment analysis of the reviews reveals that the majority of positive reviews were associated with higher ratings, while negative reviews, linked to lower ratings, slightly outnumbered neutral reviews, which generally had mid-range ratings.
+- Among the positive reviews, customers aged 48 and above contributed the most, particularly at the 4-star rating level.
+- Interestingly, products with high conversion rates were also among those with lower average ratings.
 
 ## Recomendations
 

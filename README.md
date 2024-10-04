@@ -58,5 +58,7 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZ
 - The top products with the highest conversion rates did not appear among those with the highest ratings. Notably, the Surfboard, which had the highest conversion rate, received the lowest rating among all products.
 
 ## Recomendations
+The current marketing strategy faces significant challenges, particularly in increasing both the number of views and the likes-to-views ratio. To address these issues, I recommend the following actions:
+- Enhance targeted advertising efforts to expand reach and engage potential customers more effectively.
 
 ## Conclusion

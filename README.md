@@ -2,8 +2,10 @@
 
 ![](images/intro_image.png)
 
-## Introduction
-This is a Power BI project on marketing analysis of an imaginary online retail business call **Shop Easy**.  
+## Project Overview
+This is a Power BI project on marketing analysis of an imaginary online retail business call **Shop Easy**.
+**Shop Easy** is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They need help to conduct a detailed analysis and identify areas for improvement in their marketing strategies.
+
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
 ## Skills / concepts demonstrated:

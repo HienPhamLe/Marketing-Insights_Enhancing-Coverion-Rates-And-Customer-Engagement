@@ -55,7 +55,7 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZ
 - Over the course of two years, there were 923 reviews with an average rating of 3.67 on a scale of 1 to 5.
 - Sentiment analysis of the reviews reveals that the majority of positive reviews were associated with higher ratings, while negative reviews, linked to lower ratings, slightly outnumbered neutral reviews, which generally had mid-range ratings.
 - Among the positive reviews, customers aged 48 and above contributed the most, particularly at the 4-star rating level.
-- Interestingly, products with high conversion rates were also among those with lower average ratings.
+- The top products with the highest conversion rates did not appear among those with the highest ratings. Notably, the Surfboard, which had the highest conversion rate, received the lowest rating among all products.
 
 ## Recomendations
 

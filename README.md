@@ -8,16 +8,24 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
-## Skills / concepts demonstrated:
+## Tech Stack
 - Power BI
 - SQL
 - Python
 
-## Problem Statement
+## Business Key Questions
 1. Which content types should be improved to raise customer engagement?
 2. What actions should be take to raise conversion rate?
 
-## Modelling
+## Data Sources
+There are some tables that stored in SQL Server:
+- Customer Engagement: customer's views, clicks and likes on content type, product and campaign.
+- Customer Journey: customer's actions like view, click, drop-off, purchase on product.
+- Customer Reviews: customer's reviews and rating on product.
+- Products: product information like category and price.
+- Customers: customer information like gender, age, city
+
+## Data Model
 ![](images/data_model.png)
 There are 3 fact tables and 3 dimension tables. The dimension tables are all joined to fact tables with a one-to-many relationship.
 

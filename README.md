@@ -19,24 +19,25 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 
 ## Data Sources
 There are some tables that stored in SQL Server:
-- Customer Engagement: customer's views, clicks and likes on content type, product and campaign.
-- Customer Journey: customer's actions like view, click, drop-off, purchase on product.
-- Customer Reviews: customer's reviews and rating on product.
-- Products: product information like category and price.
-- Customers: customer information like gender, age, city
+- **Customer Engagement:** customer's views, clicks and likes on content type, product and campaign.
+- **Customer Journey:** customer's actions like view, click, drop-off, purchase on product.
+- **Customer Reviews:** customer's reviews and rating on product.
+- **Products:** product information like category and price.
+- **Customers:** customer information like gender, age, city.
 
 ## Data Model
 ![](images/data_model.png)
 There are 3 fact tables and 3 dimension tables. The dimension tables are all joined to fact tables with a one-to-many relationship.
 
-## Visualization:
+## Visualizations
 The report comprises 3 pages:
 1. Customer Engagement
 2. Conversion Rate
 3. Customer Reviews
+
 You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZmQ2NDc4MjMtMzkyOC00OWIzLTlkYjQtZDI2OTJkOTNkZTkwIiwidCI6IjQ0ZGMyOGI5LTI1NzAtNDcxMi1iNzRmLWI4ZGM3MTBkZjRmNCIsImMiOjEwfQ%3D%3D)
 
-## Analysis:
+## Key Insights
 
 ### Customer Engagement
 ![](images/customer_engagement_report_page.png)
@@ -46,3 +47,7 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiZ
 
 ### Customer Reviews
 ![](images/customer_reviews_report_page.png)
+
+## Recomendations
+
+## Conclusion

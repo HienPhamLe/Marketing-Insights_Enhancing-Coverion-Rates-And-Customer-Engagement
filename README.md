@@ -9,9 +9,9 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
 ## Tech Stack
-- Power BI: visualizations
 - SQL: ETL, data cleaning
 - Python: sentiment analysis
+- Power BI: visualizations
 
 ## Business Key Questions
 1. What is the current state of the decline in customer engagement and conversion rates over the observed period?
@@ -24,7 +24,7 @@ I collect data from some tables that stored in SQL Server:
 - **Customer Journey:** customer's actions like view, click, drop-off, purchase on product.
 - **Customer Reviews:** customer's reviews and rating on product.
 - **Products:** product information like category and price.
-- **Customers:** customer information like gender, age, city.
+- **Customers:** customer information like gender, age, city.  
 Data is assumed for a 3 years period from 2023 to 2025.
 
 ## Data Model

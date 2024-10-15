@@ -19,17 +19,16 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 3. What insights can be drawn from customer reviews?
 
 ## Data Structure
-ShopEasy's database structure as seen below consists of 6 tables: customers, products, geography, customer_journey, customer_reviews, engagement_data
-- **Customer Engagement:** customer's views, clicks and likes on content type, product and campaign.
-- **Customer Journey:** customer's actions like view, click, drop-off, purchase on product.
-- **Customer Reviews:** customer's reviews and rating on product.
-- **Products:** product information like category and price.
-- **Customers:** customer information like gender, age, city.  
+ShopEasy's database structure as seen below consists of 6 tables: customers, products, geography, customer_journey, customer_reviews, engagement_data.
 Data is assumed for a 3 years period from 2023 to 2025.
 
+![](images/data_structure_ERD.png)
+
 ## Data Model
+After processing the necessary data, the data model consists of 3 fact tables and 3 dimension tables as shown below. The dimension tables are all joined to fact tables with a one-to-many relationship.
+
 ![](images/data_model.png)
-There are 3 fact tables and 3 dimension tables. The dimension tables are all joined to fact tables with a one-to-many relationship.
+
 
 ## Visualizations
 The report comprises 3 pages:

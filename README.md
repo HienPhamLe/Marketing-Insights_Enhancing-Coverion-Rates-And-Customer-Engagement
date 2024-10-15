@@ -18,8 +18,8 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 2. Which areas can be improved to enhance customer engagement and conversion rates?
 3. What insights can be drawn from customer reviews?
 
-## Data Sources
-I collect data from some tables that stored in SQL Server:
+## Data Structure
+ShopEasy's database structure as seen below consists of 6 tables: customers, products, geography, customer_journey, customer_reviews, engagement_data
 - **Customer Engagement:** customer's views, clicks and likes on content type, product and campaign.
 - **Customer Journey:** customer's actions like view, click, drop-off, purchase on product.
 - **Customer Reviews:** customer's reviews and rating on product.

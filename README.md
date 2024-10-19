@@ -8,11 +8,6 @@ This is a Power BI project on marketing analysis of an imaginary online retail b
 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of Power BI._
 
-## Tech Stack
-- SQL: ETL, data cleaning
-- Python: sentiment analysis
-- Power BI: visualizations
-
 ## Business Key Questions
 1. What is the current state of the decline in customer engagement and conversion rates over the observed period?
 2. Which areas can be improved to enhance customer engagement and conversion rates?
@@ -23,6 +18,11 @@ ShopEasy's database structure as seen below consists of 6 tables: customers, pro
 Data is assumed for a 3 years period from 2023 to 2025.
 
 ![](images/data_structure_ERD.png)
+
+## Tech Stack
+- SQL: ETL, data cleaning
+- Python: sentiment analysis
+- Power BI: visualizations
 
 ## Data Model
 After processing the necessary data, the data model consists of 3 fact tables and 3 dimension tables as shown below. The dimension tables are all joined to fact tables with a one-to-many relationship.

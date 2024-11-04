@@ -1,4 +1,4 @@
-# ShopEasy Marketing Analysis
+# Marketing Insights: Enhancing Coversion Rates And Customer Engagement
 
 ![](images/intro_image.png)
 
